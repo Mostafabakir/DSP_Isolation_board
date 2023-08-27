@@ -1,6 +1,7 @@
-Record=TopLevelDocument|FileName=ADC_LEVEL_SHIFT.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Buck_Converters.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Current_Sensor.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Opto-Isolation_1.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Opto-Isolation_2.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Voltage_Protection.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=ADC_LEVEL_SHIFT.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Buck_Converters.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Current_Sensor.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=DSP connections.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Opto-Isolation_1.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Opto-Isolation_2.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC_LEVEL_SHIFT.SchDoc|FileName=Voltage_Protection.SchDoc|SheetNumber=3
